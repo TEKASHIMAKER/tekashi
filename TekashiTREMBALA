@@ -1,0 +1,8 @@
+COMANDO, ESTA BETA ENT NAO TEM QUASE ND PRA FAZER KK
+
+pkg install git
+
+git clone https://github.com/TEKASHIMAKER/ISSO-E-UM-TESTE
+
+cd ISSO-E-UM-TESTE
+
